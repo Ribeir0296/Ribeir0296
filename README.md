@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Agent_K-black" />
+  <img src="https://img.shields.io/badge/Sir Bloody Miami Darryl-black" />
 </div>
       
 <br>
