@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
+  <img width="25%" src="https://cdn.discordapp.com/attachments/1306656646084431904/1550115145395740793/z9jkmr1pq36d1.gif?ex=6aad28ba&is=6aabd73a&hm=bde1fdf0baebd852e387fa544a64a1d6e314cc9f0b2557d7215020543ea59866&" alt="Developer Laptop">
 </div>
 
 <div align="center">
@@ -101,5 +101,3 @@
 </picture>
 
 <br>
-
-https://capsule-render.vercel.app/api?type=waving&height=110&color=69239e
