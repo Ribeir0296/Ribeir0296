@@ -20,6 +20,12 @@
 
 <br>
 
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ribeir0296&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ribeir0296&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ribeir0296&theme=dracula&utcOffset=0) |
+| :-: | :-: | :-: |
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ribeir0296&theme=dracula&hide_border=true&timezone=-3&mode=weekly)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ribeir0296&theme=dracula&name=Ribeir0296) |
+| :-: | :-: |
+
 <div align="center">
   <img src="https://img.shields.io/badge/Sir Bloody Miami Darryl-black" />
 </div>
