@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=69239e">
 <br>
 
 <div align="center">
@@ -100,3 +101,5 @@
 </picture>
 
 <br>
+
+https://capsule-render.vercel.app/api?type=waving&height=110&color=69239e
