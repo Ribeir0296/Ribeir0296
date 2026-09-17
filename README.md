@@ -28,7 +28,7 @@
 | :-: | :-: |
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Sir Bloody Miami Darryl-black" />
+  <img src="https://img.shields.io/badge/Dev Full Stack-black" />
 </div>
       
 <br>
